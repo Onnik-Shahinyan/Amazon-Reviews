@@ -24,6 +24,14 @@ file_related_buy_after_viewing.csv
 asin_df.csv
 
 
+**Jupyter codes**:
+01. Reviews - data prep and exploration.ipynb
+
+02. Meta data - data prepipynb
+ 
+03. Analyses.ipynb
+
+
 **Analyses**:
 
 Takeaway -  Data analysis - Amazon Reviews.pdf
