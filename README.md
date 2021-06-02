@@ -25,8 +25,9 @@ asin_df.csv
 
 
 **Analyses**:
+
 Takeaway -  Data analysis - Amazon Reviews.pdf
 
 
-**Data Studio report**:
+**Data Studio report - Product categories - drill down report**:
 https://datastudio.google.com/s/oHbzjEWcabY
